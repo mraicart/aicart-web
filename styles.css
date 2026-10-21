@@ -9,3 +9,5 @@ body{margin:0;background:#faf9f5}a{color:inherit}header a{text-decoration:none}#
 .contact-k{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#5d6f69}.contact-mail{font-size:19px;font-weight:600;overflow-wrap:anywhere;user-select:all}.contact-small{font-size:14px;color:#5d6f69;line-height:1.5}
 .contact-copy{justify-self:start;font:inherit;font-size:14px;border:0;border-radius:6px;padding:8px 14px;background:#214f40;color:#fff;cursor:pointer}
 .contact-open:focus-visible,.contact-copy:focus-visible{outline:3px solid #b87c24;outline-offset:5px}
+
+#aicart-designs .brandrow{display:flex;align-items:center;gap:12px}#aicart-designs .logo{flex:none;display:block}
